@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149299216714",
+    "project_id": "rescateapp-30b4c",
+    "storage_bucket": "rescateapp-30b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149299216714:android:7b96beb813a3797c5881b3",
+        "android_client_info": {
+          "package_name": "com.utng.rescateapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPH1i8_U7oFsAZMM8AMaMyrV_D69HQJM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
