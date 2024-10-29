@@ -10,9 +10,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+     
   cupertino_icons: ^1.0.6
   firebase_core: ^2.8.0
+  firebase_auth: ^4.8.1
   firebase_database: ^10.0.6
+  google_fonts: ^2.3.2  
+  cloud_firestore: ^5.0.0 
+  chart_sparkline: ^1.1.1
+  adaptive_dialog: ^1.0.0
+  font_awesome_flutter: ^9.1.0
 
 
 dev_dependencies:
